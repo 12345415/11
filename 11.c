@@ -2,5 +2,6 @@
 
 int main()
 {
+	printf("beautiful!!");
 	return 0;
 }
